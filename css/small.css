@@ -12,15 +12,14 @@ header{
     padding: 20px 10px 0px 28px;
     border-radius: 10px;
     box-shadow: 0 3px 3px 0 #000;
-    text-align: center;
 }
 
 header h1{
     color: #f1e8f5;
     font-family: 'Stick No Bills', sans-serif;
     font-size: 40px;
-    letter-spacing: -1px;
     margin: auto;
+    text-align: center;
 }
 
 .portrait{

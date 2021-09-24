@@ -1,9 +1,6 @@
 
 @media (min-width: 32.5em){
-    body{
-        text-align: center;
-    }
-    header{
+    header h1{
         text-align: left;
     }
     .portrait{
