@@ -1,10 +1,9 @@
 
 @media (min-width: 32.5em){
-    header{
-        text-align: center;
-    } 
     .portrait{
         float: right;
+        margin-top: -60px;
+        margin-right: 30px;
     }
 
 }
